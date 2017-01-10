@@ -2,5 +2,6 @@ Add your full name and GitHub username below:
 
 Nicholas Nelson (nelsonni)
 Travis Whitehead (TravisWhitehead)
+Trevor Spear (TrevorSpear)
+Evan Milton (vanthemilton)
 Joshua Lioy (jlioy)
-
